@@ -26,7 +26,7 @@ cần sự thống nhất
 dẫn tới việc đáp ứng không kịp,
 và khó khăn trong việc tiếp cận và
 phục vụ khách hàng, sai sót…
--- Phần mềm quản lý bán hàng
+==> Phần mềm quản lý bán hàng
 cho nhà hàng.
 
 ### MỤC ĐÍCH
