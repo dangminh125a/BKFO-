@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages 
+## INTRODUCTION to BKFO
 
-You can use the [editor on GitHub](https://github.com/dangminh125a/BKFO-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+GIỚI THIỆU
+ Phần mềm quản lý đóng vai trò
+quan trọng trong tài chính, ngân
+hàng, giáo dục và thương mại…
+ Rút ngắn thời gian làm việc, tăng
+độ chính xác và phần tăng giá tị
+kinh tế.
+=> Phần mềm quản lý dần thay
+thế cho cách quản lý truyền thống.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### SYSTEM VISION
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -34,4 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
