@@ -55,8 +55,8 @@ Trước hết cần cài đặt một trong những phần mềm sau đây:
 - MAMP Server
 - LAMP Server
 Các bước cài đặt:
-1) Tải xuống tệp zip và giải nén tệp trên máy chủ cục bộ của bạn.
-2) Đặt tệp này vào trong “c: / wamp / www /”.
+1) Tải xuống tệp zip và giải nén tệp trên máy chủ cục bộ của bạn. //
+2) Đặt tệp này vào trong “c: / wamp / www /”. //
 3) Cấu hình cơ sở dữ liệu
       3.1) Mở phpmyadmin.
       3.2) Tạo cơ sở dữ liệu có tên là thực phẩm.
