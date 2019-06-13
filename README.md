@@ -49,12 +49,12 @@ dạng.
 - Front end: HTML, CSS, JavaScript
 - Back end: PHP, MySQL
 ## Yêu cầu phần mềm:
-Trước hết cần cài đặt một trong những phần mềm sau đây: 
-- WAMP Server
-- XAMPP Server
-- MAMP Server
-- LAMP Server
-Các bước cài đặt:
+- Trước hết cần cài đặt một trong những phần mềm sau đây: 
+    + WAMP Server
+    + XAMPP Server
+    + MAMP Server
+    + LAMP Server
+- Các bước cài đặt:
 - 1) Tải xuống tệp zip và giải nén tệp trên máy chủ cục bộ của bạn. 
 - 2) Đặt tệp này vào trong “c: / wamp / www /”. 
 - 3) Cấu hình cơ sở dữ liệu
