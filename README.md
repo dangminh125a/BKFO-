@@ -61,10 +61,10 @@ dạng.
     +  3.1) Mở phpmyadmin.
     +  3.2) Tạo cơ sở dữ liệu có tên là thực phẩm.
     +  3.3) Nhập cơ sở dữ liệu food.sql từ thư mục đã tải xuống (bên trong cơ sở dữ liệu).
-- 4) Mở Trình duyệt của bạn đặt bên trong "ttp://localhost/OnlineFoodorderingsystem/login.php"
+- 4) Mở Trình duyệt của bạn đặt bên trong "http://localhost/OnlineFoodorderingsystem/login.php"
 - 5) Đăng nhập vào tài khoản Quản trị viên
-Id đăng nhập: root
-Mật khẩu: toor
++ Id đăng nhập: root
++ Mật khẩu: toor
 
 ## Cần giúp đỡ cài đặt hoặc tùy chỉnh
 
