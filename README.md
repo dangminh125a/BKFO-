@@ -69,12 +69,12 @@ Mật khẩu: toor
 **Cần giúp đỡ cài đặt hoặc tùy chỉnh
 
 SĐT Liên hệ: 
-0823496953
++0823496953
 
 Email và Facebook:
-minh.nguyenlinhdang@hcmut.edu.vn	https://www.facebook.com/ToiRing
-thieng4010@gmail.com	https://www.facebook.com/pt.Kzz
-thao.le_bongbong@hcmut.edu.vn	https://www.facebook.com/sakurachanhohoho
-Phamminhhien1999py@gmail.com	https://www.facebook.com/BestHP
-luc.le1712101@hcmut.edu.vn	https://www.facebook.com/profile.php?id=100010073531981
++minh.nguyenlinhdang@hcmut.edu.vn	https://www.facebook.com/ToiRing
++thieng4010@gmail.com	https://www.facebook.com/pt.Kzz
++thao.le_bongbong@hcmut.edu.vn	https://www.facebook.com/sakurachanhohoho
++Phamminhhien1999py@gmail.com	https://www.facebook.com/BestHP
++luc.le1712101@hcmut.edu.vn	https://www.facebook.com/profile.php?id=100010073531981
 
